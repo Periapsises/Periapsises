@@ -4,7 +4,7 @@
 - ⚒️ I’m currently working on [Mos 6502](https://github.com/Periapsises/Mos6502)  
   
 
-- 🍂 I’m currently learning OpenGL and GLSL  
+- 🍂 I’m also learning OpenGL and GLSL  
   
 
 - 🧠 I have relatively strong knowledge of Lua, mostly for Garry's Mod  
@@ -27,7 +27,7 @@
 <a href="https://github.com/Periapsises" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCl1UktN0-EE3HDyCcvUlx_Q" target="_blank">
+<a href="https://www.youtube.com/@periapsises" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
