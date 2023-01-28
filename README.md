@@ -1,11 +1,4 @@
 ### <div align="center">Hi 👋 I'm Periapsises, a self taught dev with a lot of Garry's Mod background 🕹️</div>  
-  
-
-- ⚒️ I’m currently working on [Mos 6502](https://github.com/Periapsises/Mos6502)  
-  
-
-- 🍂 I’m also learning OpenGL and GLSL  
-  
 
 - 🧠 I have relatively strong knowledge of Lua, mostly for Garry's Mod  
   
